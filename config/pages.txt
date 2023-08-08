@@ -1,0 +1,7 @@
+All ads (category.php)=category.php
+Home (home.php)=home.php
+Dashboard (dashboard/...php)=dashboar.php
+Author (autgor.php)=author.php
+Sigle ads (single.php)=single.php
+Log in (login.php)=login.php
+Registration (registration.php)=registration.php

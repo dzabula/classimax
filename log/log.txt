@@ -1,0 +1,45 @@
+id_user=Ghost/ip_adress=51.222.253.19/date=1662045889/page=login.php/action=Login
+id_user=14/ip_adress=178.148.253.217/date=1662046093/page=category.php/action=Browsing all ads on site
+id_user=14/ip_adress=178.148.253.217/date=1662046095/page=dashboar.php/action=Browsing my ads
+id_user=14/ip_adress=178.148.253.217/date=1662046096/page=home.php/action=None
+id_user=14/ip_adress=178.148.253.217/date=1662046097/page=home.php/action=None
+id_user=14/ip_adress=178.148.253.217/date=1662046099/page=dashboar.php/action=Browsing my ads
+id_user=14/ip_adress=178.148.253.217/date=1662046119/page=dashboar.php/action=Browsing my ads
+id_user=Ghost/ip_adress=34.146.20.183/date=1662046304/page=home.php/action=None
+id_user=Ghost/ip_adress=34.146.20.183/date=1662046305/page=home.php/action=None
+id_user=Ghost/ip_adress=34.146.20.183/date=1662046305/page=home.php/action=None
+id_user=Ghost/ip_adress=34.124.170.228/date=1662046312/page=home.php/action=None
+id_user=Ghost/ip_adress=34.124.170.228/date=1662046313/page=home.php/action=None
+id_user=Ghost/ip_adress=34.124.170.228/date=1662046314/page=home.php/action=None
+id_user=Ghost/ip_adress=164.68.96.236/date=1662046326/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.10/date=1662046488/page=single.php/action=Browsing single ads
+id_user=14/ip_adress=178.148.253.217/date=1662046807/page=home.php/action=None
+id_user=Ghost/ip_adress=46.4.33.48/date=1662046880/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.7/date=1662046984/page=single.php/action=Browsing single ads
+id_user=Ghost/ip_adress=178.148.253.217/date=1662047068/page=login.php/action=Login
+id_user=Ghost/ip_adress=178.148.253.217/date=1662047070/page=registration.php/action=Registration
+id_user=Ghost/ip_adress=51.222.253.14/date=1662047563/page=single.php/action=Browsing single ads
+id_user=Ghost/ip_adress=69.25.58.56/date=1662047609/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.9/date=1662048126/page=single.php/action=Browsing single ads
+id_user=Ghost/ip_adress=38.108.182.5/date=1662048138/page=home.php/action=None
+id_user=Ghost/ip_adress=194.195.124.139/date=1662048598/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.6/date=1662048714/page=single.php/action=Browsing single ads
+id_user=Ghost/ip_adress=51.222.253.12/date=1662049331/page=single.php/action=Browsing single ads
+id_user=Ghost/ip_adress=23.254.24.141/date=1662049476/page=home.php/action=None
+id_user=Ghost/ip_adress=2604:e880:2:2::28d/date=1662049631/page=home.php/action=None
+id_user=Ghost/ip_adress=13.95.133.245/date=1662049753/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.16/date=1662050592/page=category.php/action=Browsing all ads on site
+id_user=Ghost/ip_adress=176.53.216.113/date=1662050644/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.20/date=1662051224/page=registration.php/action=Registration
+id_user=Ghost/ip_adress=51.222.253.1/date=1662051233/page=registration.php/action=Registration
+id_user=Ghost/ip_adress=20.219.28.165/date=1662051762/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.10/date=1662052231/page=category.php/action=Browsing all ads on site
+id_user=Ghost/ip_adress=54.213.175.164/date=1662052240/page=home.php/action=None
+id_user=Ghost/ip_adress=68.183.191.14/date=1662052360/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.9/date=1662052765/page=category.php/action=Browsing all ads on site
+id_user=Ghost/ip_adress=58.251.94.154/date=1662055048/page=home.php/action=None
+id_user=Ghost/ip_adress=2804:431:cfed:3cc8:bdb7:89c6:212a:73f5/date=1662055183/page=home.php/action=None
+id_user=Ghost/ip_adress=44.203.94.48/date=1662055187/page=home.php/action=None
+id_user=Ghost/ip_adress=95.105.125.131/date=1662055406/page=home.php/action=None
+id_user=Ghost/ip_adress=51.222.253.3/date=1662055482/page=category.php/action=Browsing all ads on site
+id_user=Ghost/ip_adress=20.168.83.65/date=1662056280/page=home.php/action=None
