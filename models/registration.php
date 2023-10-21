@@ -138,7 +138,7 @@ if($res['activation_link'] == null){
 
    // InsertAndSendVerification($user->id,$user->email);
 
-   $link = "https://classimaxx.000webhostapp.com/models/verification.php?id=".$res['activation_link'];
+   $link = "http://classmax.gwaysapps.com/models/verification.php?id=".$res['activation_link'];
    
    $subject = "Verification Email.";
    $to_email = $email;
