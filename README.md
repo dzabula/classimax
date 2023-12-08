@@ -5,13 +5,9 @@ Admin:
   email:markodasic70@gmail.com
   passwrod: VisokaIct1.
 
-Moderator:
-  email:
-  password:
-
 User:
-  email:
-  password:
+  email: petar@gmail.com
+  password: VisokaIct1.
 
 
 
