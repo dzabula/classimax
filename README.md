@@ -1,5 +1,19 @@
 # Classimax
-Link to view app:
+Link to view app: http://marko-calssimax.online/
+
+Admin:
+  email:markodasic70@gmail.com
+  passwrod: VisokaIct1.
+
+Moderator:
+  email:
+  password:
+
+User:
+  email:
+  password:
+
+
 
 The project was done as a pre-examination requirement in the second year of study.
 The project represents a Full Stack Web Application written in Native PHP, which serves as a portal for placing advertisements for the sale of products.
